@@ -1,8 +1,8 @@
 [
   {
     "email": "foo@example.com",
-    "verified": true,
-    "primary": true
+    "verified": false,
+    "primary": false
   },
   {
     "email": "bar@example.com",
